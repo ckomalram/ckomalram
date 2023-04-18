@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/a32a65d6-5d33-48c6-a0bb-e6335609cd6c.svg)](https://wakatime.com/@a32a65d6-5d33-48c6-a0bb-e6335609cd6c)
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/carlyle-komalram-321524160/)
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/channel/UCgBuzq1h0kWzu7PPPaDpNwQ)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ck_pty/?igshid=YmMyMTA2M2Y%3D)
